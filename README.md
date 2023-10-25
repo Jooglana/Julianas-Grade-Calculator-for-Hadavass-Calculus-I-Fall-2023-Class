@@ -4,8 +4,16 @@ Allows you take the grades you earned in his class (tests, final, attendance), e
 
 The program will also determine what scheme will be used and what test will be dropped as as result of using scheme 2.
 
-The program will also tell you what your midterm grade is (soon to change to what your grade in the class is as of test 3).
+The program will also tell you your overall grade as of test 3, excluding any schemes or attendance points.
 
-Version 3.0 will be released Wednesday, October 25th, 2023 that will feature the change above, valid grade checking, an area to save your grades so you don't have to remember them or put them in to calculate your overall grade, an algorithm to calculate what grade you need on the final after all tests and attendance points accounted for, and overall polishing and cleaner code.
+The program also tells you what letter grade you get if you pass the class.
+
+The program will also tell you what grade you need to earn a C, B, or A average overall in the class, and if you can earn a 100% perfect overall score in the class.
+
+You can also save your grades in the program file itself (located at the top of the main method), to use for future calculations without remembering them or typing them in everytime.
+
+DISCLAIMER: There may be a slight margin of error of about 0.01, but that means it should have minimum impact. 
+DISCLAIMER: The grade calculator only takes grades between 0 - 100.0 and attendance points between 0 - 12, if you were issued a grade that was outside the range for whatever reason, leave it in the issues section and I will address it. 
+DISCLAIMER: 100% is the hard limit of the final grade, even if you really earned 102% or 101%, to be more respective of the college grading system.
 
 Report any issues to the issues tab if needed!
