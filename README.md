@@ -20,6 +20,8 @@ DISCLAIMER: 100% is the hard limit of the final grade, even if you really earned
 
 Report any issues to the issues tab if needed!
 
-* - Coming Soon
-** - Feature already exists, but will be changed to support the new function.
-*** - New version of existing feature that is coming soon.
+(*) - Coming Soon
+
+(**) - Feature already exists, but will be changed to support the new function.
+
+(***) - New version of existing feature that is coming soon.
