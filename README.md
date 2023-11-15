@@ -20,4 +20,6 @@ DISCLAIMER: There may be a slight margin of error of about 0.01, but that means 
 DISCLAIMER: The grade calculator only takes grades between 0 - 100.0 and attendance points between 0 - 12, if you were issued a grade that was outside the range for whatever reason, leave it in the issues section and I will address it. 
 DISCLAIMER: 100% is the hard limit of the final grade, even if you really earned 102% or 101%, to be more respective of the college grading system.
 
+WHEN USING VERSION 4.0 OR LATER, YOU MUST RUN "SaveGrades" file BEFORE RUNNING THE PROGRAM IF USING THE SUPPLIED "run" FILE!
+
 Report any issues to the issues tab if needed!
