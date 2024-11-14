@@ -1,14 +1,26 @@
-Exam One Grade = 88.00
-Exam Two Grade = 89.00
-Exam Three Grade = 69.00
-Exam Four Grade = 93.00
-Earned Attendance Points = 12
-Final Exam Grade = 84.00
+Save File Version 2
+Exam One Grade = -1
+Exam Two Grade = -1
+Exam Three Grade = -1
+Exam Four Grade = -1
+Quiz Grade = -1
+Earned Attendance Points = -1
+Final Exam Grade = -1
+
 Use this file to store your grades! 
+
 A space must between the value and the equals. 
-FOR ALL EXAM VALUES: 
-Change the values to a negative or above 100.0 (above 110 for Exam 4) if you wish to manually enter a value during the program execution. 
-If the values below are less than 0 or above 100.0 (above 110 for Exam 4), then an value will be asked for during the program execution. 
+
+FOR ALL EXAM/QUIZ VALUES: 
+Change the values to a negative or above 110.0 if you wish to manually enter a value during the program execution. 
+If the values below are less than 0 or above 110.0, then an value will be asked for during the program execution. 
+
 FOR THE ATTENDANCE VALUE: 
-The attendance value value must be a number between 0 - 12 in order to for the saved value to be used, otherwise put a invalid number to ask for the number during execution. 
+The attendance value must be a number between 0 - 12 in order to for the saved value to be used, otherwise put a invalid number to ask for the number during execution. 
 THIS MUST BE A WHOLE NUMBER! 
+
+PLEASE NOTE: 
+DO NOT MESS WITH FIRST LINE OF THIS FILE! IF YOU MODIFY IT, THE PROGRAM WILL NOT ACCEPT THIS AS A PROPER SAVE FILE! 
+It must always be exactly 'Save File Version 6' with no spaces before or after.
+
+ADDITIONALLY: ANY NON-NUMBER CHARACTER ENTERED IN FOR A GRADE WILL CAUSE THE FILE TO BE UNREADABLE TO THE PROGRAM! 
