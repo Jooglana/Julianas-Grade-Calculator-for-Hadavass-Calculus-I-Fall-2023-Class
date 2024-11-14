@@ -1,5 +1,7 @@
 # Julianas-Grade-Calculator-for-Hadavass-Calculus-I-Fall-2023-Class
 
+NOW UPDATED TO SUPPORT HADAVAS'S NEW CLASS STRUCTURE FOR FALL 2024!
+
 Allows you take the grades you earned in his class (tests, final, attendance), enter them in the program, and the program will give you your overall grade.
 
 The program will also determine what scheme will be used and what test will be dropped as as result of using scheme 2.
@@ -27,5 +29,7 @@ WHEN USING VERSION 4.0, YOU MUST RUN "SaveGrades" file BEFORE RUNNING THE PROGRA
 Version 4.0 is no longer recommended for use as it is very clunky and unpolished on how it works.
 
 The StoredGrades.java is not compatible with Version 5.0, you will have to manually move your data over to StoredGrades.txt.
+
+VERSION 6.0 WILL NOT ACCEPT ANY SAFE FILES FROM VERSION 5.0 OR VERSION 4.0, DATA MUST BE MANUALLY MIGRATED!
 
 Report any issues to the issues tab if needed!
